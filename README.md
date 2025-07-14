@@ -42,12 +42,6 @@
 
 ---
 
-## 📷 Sample Visuals
-
-![Netflix Ratings](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png)
-> (Replace with your own chart screenshots if needed)
-
----
 
 ## 🚀 How to Use
 
