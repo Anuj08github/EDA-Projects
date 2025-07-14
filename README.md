@@ -13,7 +13,7 @@
   - Content types and durations
 
 ### 2. 🚢 Titanic Dataset
-- **Source**: [Kaggle Titanic Survival Dataset](https://www.kaggle.com/c/titanic)
+- **Source**: [Kaggle Titanic Survival Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - **Objective**: Analyze passenger data to explore survival patterns based on:
   - Gender
   - Age
@@ -29,8 +29,6 @@
 - Python 🐍
 - Jupyter Notebook 📓
 - Pandas
-- Matplotlib
-- Seaborn
 - Numpy
 
 ---
